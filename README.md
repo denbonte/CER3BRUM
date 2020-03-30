@@ -17,7 +17,8 @@ In order to run the code found in this repository, all the dependencies found in
 pip install -r requirements.txt
 ```
 
-to install all the dependencies.<br>
+to install all the dependencies. To run the provided, notebooks you will also need to install Jupyter Notebook.
+
 <i><b>N.B.</b> `tensorflow-gpu` is not needed neither for the training nor for the testing, but performance greatly degrades if the use of GPUs is not supported.</i>
 
 
